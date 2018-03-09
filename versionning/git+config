@@ -20,3 +20,5 @@
 [branch "4.2"]
 	remote = origin
 	merge = refs/heads/4.2
+[fetch]
+    	prune = true
