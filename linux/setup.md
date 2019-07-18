@@ -9,6 +9,8 @@ sudo usermod -a -G sudo $USER
 ### Tools
 sudo apt install curl
 
+kdiff3
+
 ### Java
 sudo apt install openjdk-8-jdk openjdk-8-source
 
@@ -19,6 +21,7 @@ sudo snap install node --channel=8/stable --classic
 
 npm install --global yarn@1.13.0
 
-
 ### Others
+
+#### Vim
 sudo apt install vim
