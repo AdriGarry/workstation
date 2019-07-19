@@ -14,7 +14,7 @@ sudo usermod -a -G sudo $USER
 ```bash
 sudo apt install curl
 ```
-Albert launcher: https://github.com/albertlauncher/albert
+Albert launcher: https://software.opensuse.org/download.html?project=home:manuelschneid3r&package=albert
 
 kdiff3
 
