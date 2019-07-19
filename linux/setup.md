@@ -10,6 +10,12 @@ sudo apt-get update
 sudo usermod -a -G sudo $USER
 ```
 
+
+### Num lock on boot
+```bash
+https://doc.ubuntu-fr.org/numlockx
+```
+
 ### Tools
 ```bash
 sudo apt install curl
