@@ -1,6 +1,5 @@
 # workstation
-Some stuff for workstation
-- OS specifics
+- OS setup
 - IDE configurations
 - Automatization scripts
 ...
