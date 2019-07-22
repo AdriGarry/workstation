@@ -5,6 +5,11 @@
 sudo apt-get update
 ```
 
+### Install apps
+```bash
+sudo apt install audacity chromium-browser filezilla git 
+```
+
 ### user as sudo
 ```bash
 sudo usermod -a -G sudo $USER
