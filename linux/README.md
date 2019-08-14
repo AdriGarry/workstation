@@ -34,7 +34,9 @@ sudo apt install curl
 Albert launcher: https://software.opensuse.org/download.html?project=home:manuelschneid3r&package=albert
 Albert autostart: `ln -s /usr/share/applications/albert.desktop ~/.config/autostart/`
 
+#### Compare & merge files
 kdiff3
+
 
 ### Java
 ```bash
