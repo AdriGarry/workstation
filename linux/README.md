@@ -20,12 +20,20 @@ sudo usermod -a -G sudo $USER
 Configuration du système → Matériel → Périphériques d'entrée → Clavier → onglet « Matériel » → rubrique « Verrouillage numérique au démarrage de KDE » → cliquer sur « Activé »
 https://doc.ubuntu-fr.org/numlockx
 
+### Mount disk
+Add following line to `/etc/fstab`
+
+```bash
+/dev/sdb1 /media/adri/DATA vfat rw,nosuid,nodev,relatime,uid=1000,gid=1000,fmask=0022,dmask=0022,codepage=437,iocharset=iso8859-1,shortname=mixed
+```
+
 ### Tools
 ```bash
 sudo apt install curl
 ```
 Albert launcher: https://software.opensuse.org/download.html?project=home:manuelschneid3r&package=albert
 Albert autostart: `ln -s /usr/share/applications/albert.desktop ~/.config/autostart/`
+
 kdiff3
 
 ### Java
