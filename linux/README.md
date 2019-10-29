@@ -36,6 +36,11 @@ Albert autostart: `ln -s /usr/share/applications/albert.desktop ~/.config/autost
 
 Firefox Developer edition: https://zillowtech.com/install-firefox-developer-edition-linux.html
 
+Audacity, Chromium Filezilla
+```bash
+sudo apt-get install make audacity chromium-browser filezilla git 
+```
+
 #### Compare & merge files
 kdiff3
 
