@@ -62,7 +62,9 @@ npm install --global yarn@1.13.0
 ### Others
 
 #### Odi SSH connexion shortcut
+```bash
 alias callOdi='ssh odi@192.168.1.35'
+```
 
 #### Vim
 ```bash
