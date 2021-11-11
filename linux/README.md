@@ -33,9 +33,10 @@ sudo apt install curl
 https://software.opensuse.org/download.html?project=home:manuelschneid3r&package=albert
 Albert autostart: `ln -s /usr/share/applications/albert.desktop ~/.config/autostart/`
 
-Firefox Developer edition: https://zillowtech.com/install-firefox-developer-edition-linux.html
+#### Firefox Developer edition
+https://zillowtech.com/install-firefox-developer-edition-linux.html
 
-Audacity, Chromium Filezilla
+#### Audacity, Chromium Filezilla
 ```bash
 sudo apt-get install make audacity chromium-browser filezilla git 
 ```
@@ -56,13 +57,6 @@ sudo snap install intellij-idea-community --classic
 sudo snap install node --channel=8/stable --classic
 
 npm install --global yarn@1.13.0
-```
-
-### Others
-
-#### Odi SSH connexion shortcut
-```bash
-alias callOdi='ssh odi@192.168.1.35'
 ```
 
 #### Vim
