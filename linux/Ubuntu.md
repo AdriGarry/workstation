@@ -1,9 +1,18 @@
 # Ubuntu setup
 
-### Conky (monitor widget)
-`sudo apt install conky-all`
+## Monitoring widgets & apps
+
+### Conky
+```
+sudo apt install conky-all
+```
 
 Setup: https://linuxconfig.org/ubuntu-20-04-system-monitoring-with-conky-widgets
+```
+cp /etc/conky/conky.conf ~/.conkyrc
+
+gedit ~/.conkyrc
+```
 
 [Conf file](./conky/conf)
 
