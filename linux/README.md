@@ -3,11 +3,6 @@
 ### Ubuntu
 [Ubuntu setup](./Ubuntu.md)
 
-### Install apps
-```bash
-sudo apt install audacity chromium-browser filezilla git 
-```
-
 ### user as sudo
 ```bash
 sudo usermod -a -G sudo $USER
@@ -35,7 +30,7 @@ https://software.opensuse.org/download.html?project=home:manuelschneid3r&package
 #### Firefox Developer edition
 https://zillowtech.com/install-firefox-developer-edition-linux.html
 
-#### Audacity, Chromium Filezilla
+#### Audacity, Chromium, Filezilla, Git
 ```bash
 sudo apt-get install make audacity chromium-browser filezilla git 
 ```
