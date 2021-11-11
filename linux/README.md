@@ -31,7 +31,6 @@ sudo apt install curl
 ```
 #### Albert launcher
 https://software.opensuse.org/download.html?project=home:manuelschneid3r&package=albert
-Albert autostart: `ln -s /usr/share/applications/albert.desktop ~/.config/autostart/`
 
 #### Firefox Developer edition
 https://zillowtech.com/install-firefox-developer-edition-linux.html
