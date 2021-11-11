@@ -1,0 +1,2 @@
+### Conky (monitor widget)
+`sudo...`
