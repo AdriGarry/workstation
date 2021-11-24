@@ -27,6 +27,14 @@ sudo apt install curl
 #### Albert launcher
 https://software.opensuse.org/download.html?project=home:manuelschneid3r&package=albert
 
+#### Typora
+```
+wget -qO - https://typora.io/linux/public-key.asc | sudo apt-key add -
+sudo add-apt-repository 'deb https://typora.io/linux ./'
+sudo apt-get update
+sudo apt-get install typora
+```
+
 #### Firefox Developer edition
 https://zillowtech.com/install-firefox-developer-edition-linux.html
 
