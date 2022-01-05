@@ -11,7 +11,8 @@ sudo usermod -a -G sudo $USER
 
 ### Num lock on boot
 Configuration du système → Matériel → Périphériques d'entrée → Clavier → onglet « Matériel » → rubrique « Verrouillage numérique au démarrage de KDE » → cliquer sur « Activé »
-https://doc.ubuntu-fr.org/numlockx
+
+source: https://doc.ubuntu-fr.org/numlockx
 
 ### Mount disk
 Add following line to `/etc/fstab`
