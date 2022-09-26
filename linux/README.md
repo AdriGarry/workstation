@@ -66,3 +66,9 @@ npm install --global yarn@1.13.0
 ```bash
 sudo apt install vim
 ```
+
+### Scheduled shutdown
+To schedule a shutdown in 15 minutes:
+```bash
+sudo shutdown +15
+```
