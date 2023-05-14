@@ -13,7 +13,7 @@
 -- For more on Lua, see:
 -- https://www.lua.org/pil/contents.html
 
-conky.config = {	
+conky.config = {
 	update_interval = 1,
 	cpu_avg_samples = 2,
 	net_avg_samples = 2,
@@ -28,12 +28,12 @@ conky.config = {
 	own_window_argb_visual = true,
 	own_window_argb_value = 50,
 	own_window_hints = 'undecorated,below,sticky,skip_taskbar,skip_pager',
-	border_inner_margin = 5,
+	border_inner_margin = 20,
 	border_outer_margin = 0,
 	xinerama_head = 1,
 	alignment = 'bottom_right',
-	gap_x = 15,
-	gap_y = 15,
+	gap_x = 35,
+	gap_y = 40,
 	draw_shades = false,
 	draw_outline = false,
 	draw_borders = false,
@@ -77,7 +77,7 @@ ${fs_bar /}
 ${font Ubuntu:bold:size=12}NETWORK ${hr 2}
 ${font sans-serif:normal:size=10}Local IPs:${alignr}External IP:
 ${execi 1000 ip a | grep inet | grep -vw lo | grep -v inet6 | cut -d \/ -f1 | sed 's/[^0-9\.]*//g'}  ${alignr}${execi 1000  wget -q -O- http://ipecho.net/plain; echo}
-${font sans-serif:normal:size=10}Down: ${downspeed enp0s3}  ${alignr}Up: ${upspeed enp0s3} 
+${font sans-serif:normal:size=10}Down: ${downspeed enp0s3}  ${alignr}Up: ${upspeed enp0s3}
 
 ${font sans-serif:bold:size=12}TOP PROCESSES ${hr 2}
 ${font sans-serif:normal:size=10}NAME $alignr PID   CPU%   MEM%${font sans-serif:normal:size=10}
