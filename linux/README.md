@@ -1,35 +1,34 @@
 # Linux Setup
 
-### Ubuntu
+## Ubuntu
 [Ubuntu setup](./Ubuntu.md)
 
-### user as sudo
+## user as sudo
 ```bash
 sudo usermod -a -G sudo $USER
 ```
 
-
-### Num lock on boot
+## Num lock on boot
 Configuration du système → Matériel → Périphériques d'entrée → Clavier → onglet « Matériel » → rubrique « Verrouillage numérique au démarrage de KDE » → cliquer sur « Activé »
 
 source: https://doc.ubuntu-fr.org/numlockx
 
-### Mount disk
+## Mount disk
 Add following line to `/etc/fstab`
 
 ```bash
 /dev/sdb1 /media/adri/DATA vfat rw,nosuid,nodev,relatime,uid=1000,gid=1000,fmask=0022,dmask=0022,codepage=437,iocharset=iso8859-1,shortname=mixed
 ```
 
-### Tools
+## Tools
 ```bash
 sudo apt install curl
 ```
 
-#### Albert launcher
+### Albert launcher
 https://software.opensuse.org/download.html?project=home:manuelschneid3r&package=albert
 
-#### Typora
+### Typora
 ```
 wget -qO - https://typora.io/linux/public-key.asc | sudo apt-key add -
 sudo add-apt-repository 'deb https://typora.io/linux ./'
@@ -37,15 +36,15 @@ sudo apt-get update
 sudo apt-get install typora
 ```
 
-#### Firefox Developer edition
+### Firefox Developer edition
 https://zillowtech.com/install-firefox-developer-edition-linux.html
 
-#### Audacity, Chromium, Filezilla, Git
+### Audacity, Chromium, Filezilla, Git
 ```bash
 sudo apt-get install make audacity chromium-browser filezilla git 
 ```
 
-#### Compare & merge files
+### Compare & merge files
 kdiff3
 
 
