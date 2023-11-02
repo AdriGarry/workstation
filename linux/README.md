@@ -25,6 +25,11 @@ Add following line to `/etc/fstab`
 ```bash
 sudo apt install curl
 ```
+
+#### Clipboard history
+Install first Gnome extensions
+https://extensions.gnome.org/extension/779/clipboard-indicator/
+
 #### Albert launcher
 https://software.opensuse.org/download.html?project=home:manuelschneid3r&package=albert
 
