@@ -1,7 +1,8 @@
 # Linux Setup
 
-## Ubuntu
-[Ubuntu setup](./Ubuntu.md)
+
+| **[Ubuntu setup](./Ubuntu.md)** |
+|-|
 
 ## user as sudo
 ```bash
