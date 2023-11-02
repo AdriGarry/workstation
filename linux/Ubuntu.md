@@ -1,5 +1,15 @@
 # Ubuntu setup
 
+## Gnome extensions
+
+Install first Gnome extensions
+
+### Clipboard history
+https://extensions.gnome.org/extension/779/clipboard-indicator/
+
+### Weather
+https://extensions.gnome.org//extension/750/openweather/
+
 ## Monitoring widgets & apps
 
 ### Conky
