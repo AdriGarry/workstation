@@ -7,13 +7,16 @@ gsettings set org.gnome.desktop.interface clock-show-seconds true
 
 ## Gnome extensions
 
-Install first Gnome extensions
+Install first Gnome extensions threw software manager
 
 ### Clipboard history
 https://extensions.gnome.org/extension/779/clipboard-indicator/
 
 ### Caffeine
 https://extensions.gnome.org//extension/517/caffeine/
+
+### Internet radio
+https://extensions.gnome.org//extension/836/internet-radio/
 
 ### Weather
 https://extensions.gnome.org//extension/750/openweather/
