@@ -13,13 +13,16 @@ Install first Gnome extensions threw software manager
 https://extensions.gnome.org/extension/779/clipboard-indicator/
 
 ### Caffeine
-https://extensions.gnome.org//extension/517/caffeine/
+https://extensions.gnome.org/extension/517/caffeine/
 
 ### Internet radio
-https://extensions.gnome.org//extension/836/internet-radio/
+https://extensions.gnome.org/extension/836/internet-radio/
 
 ### Weather
-https://extensions.gnome.org//extension/750/openweather/
+https://extensions.gnome.org/extension/750/openweather/
+
+### Vitals
+https://extensions.gnome.org/extension/1460/vitals/
 
 ## Monitoring widgets & apps
 
