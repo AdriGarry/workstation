@@ -1,5 +1,10 @@
 # Ubuntu setup
 
+## Display seconds for clock
+```
+gsettings set org.gnome.desktop.interface clock-show-seconds true
+```
+
 ## Gnome extensions
 
 Install first Gnome extensions
