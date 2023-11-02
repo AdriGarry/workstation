@@ -10,6 +10,9 @@
 [![Commit](https://img.shields.io/github/commit-activity/w/adrigarry/workstation)](https://github.com/AdriGarry/workstation/commits/master)
 [![Last commit](https://img.shields.io/github/last-commit/adrigarry/workstation)](https://github.com/AdriGarry/workstation/commits/master)
 
+| **[Linux setup](./linux/README.md)** | **[Windows setup](./windows/README.md)** |
+|--------------------------------------|------------------------------------------|
+
 - OS setup
 - IDE configurations
 - Automatization scripts
