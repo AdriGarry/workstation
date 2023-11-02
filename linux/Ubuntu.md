@@ -7,6 +7,9 @@ Install first Gnome extensions
 ### Clipboard history
 https://extensions.gnome.org/extension/779/clipboard-indicator/
 
+### Caffeine
+https://extensions.gnome.org//extension/517/caffeine/
+
 ### Weather
 https://extensions.gnome.org//extension/750/openweather/
 
