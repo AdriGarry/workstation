@@ -38,7 +38,7 @@ cp /etc/conky/conky.conf ~/.conkyrc
 gedit ~/.conkyrc
 ```
 
-[Conf file](./conky/conf)
+[Conf files](https://github.com/AdriGarry/workstation/tree/master/linux/conky)
 
 ### Stacer
 https://homputersecurity.com/2017/08/18/optimisez-votre-systeme-linux-avec-stacer/
