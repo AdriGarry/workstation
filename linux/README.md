@@ -45,6 +45,9 @@ https://zillowtech.com/install-firefox-developer-edition-linux.html
 sudo apt-get install make audacity chromium-browser filezilla git 
 ```
 
+### PDF
+PDFCraft
+
 ### Compare & merge files
 kdiff3
 
