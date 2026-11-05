@@ -1,8 +1,15 @@
 # Ubuntu setup
 
-## Display seconds for clock
+## Gnome environment
+
+### Display seconds for clock
 ```
 gsettings set org.gnome.desktop.interface clock-show-seconds true
+```
+
+### Hide mount disks from dock
+```
+gsettings set org.gnome.shell.extensions.dash-to-dock show-mounts false
 ```
 
 ## Gnome extensions
@@ -30,6 +37,9 @@ https://extensions.gnome.org/extension/750/openweather/
 
 ## Monitoring widgets & apps
 
+### Stacer
+https://homputersecurity.com/2017/08/18/optimisez-votre-systeme-linux-avec-stacer/
+
 ### Conky
 ```
 sudo apt install conky-all
@@ -43,6 +53,3 @@ gedit ~/.conkyrc
 ```
 
 [Conf files](https://github.com/AdriGarry/workstation/tree/master/linux/conky)
-
-### Stacer
-https://homputersecurity.com/2017/08/18/optimisez-votre-systeme-linux-avec-stacer/
