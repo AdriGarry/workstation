@@ -16,16 +16,8 @@ sudo apt install gnome-shell-extension-manager
 ### Clipboard history
 https://extensions.gnome.org/extension/779/clipboard-indicator/
 
-```
-sudo apt install gnome-shell-extension-vitals
-```
-
 ### Vitals
 https://extensions.gnome.org/extension/1460/vitals/
-
-```
-sudo apt install gnome-shell-extension-vitals
-```
 
 ### Caffeine
 https://extensions.gnome.org/extension/517/caffeine/
