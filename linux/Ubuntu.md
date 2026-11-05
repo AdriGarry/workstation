@@ -7,10 +7,25 @@ gsettings set org.gnome.desktop.interface clock-show-seconds true
 
 ## Gnome extensions
 
-Install first Gnome extensions threw software manager
+Install Gnome extensions threw software manager
+
+```
+sudo apt install gnome-shell-extension-manager
+```
 
 ### Clipboard history
 https://extensions.gnome.org/extension/779/clipboard-indicator/
+
+```
+sudo apt install gnome-shell-extension-vitals
+```
+
+### Vitals
+https://extensions.gnome.org/extension/1460/vitals/
+
+```
+sudo apt install gnome-shell-extension-vitals
+```
 
 ### Caffeine
 https://extensions.gnome.org/extension/517/caffeine/
@@ -20,9 +35,6 @@ https://extensions.gnome.org/extension/836/internet-radio/
 
 ### Weather
 https://extensions.gnome.org/extension/750/openweather/
-
-### Vitals
-https://extensions.gnome.org/extension/1460/vitals/
 
 ## Monitoring widgets & apps
 
